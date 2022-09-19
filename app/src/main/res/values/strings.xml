@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">week5</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="hint_username">Enter Your User Name</string>
+    <string name="hint_password">Enter Your Password</string>
+    <string name="checkbox_re">Remember Me ?</string>
+    <string name="button_confirm">Log In</string>
+    <string name="button_register">Registration</string>
+
+
+</resources>
